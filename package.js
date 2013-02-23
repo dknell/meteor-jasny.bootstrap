@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "Latest version of Bootstrap by Jasny ()"
+	summary: "Latest version of Bootstrap by Jasny (2.3.0-j4)"
 });
 
 Package.on_use(function (api){
