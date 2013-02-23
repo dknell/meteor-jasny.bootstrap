@@ -8,7 +8,7 @@
 
 [class^="icon-"],
 [class*=" icon-"] {
-  background-image: url("/packages/bootstrap-jasny/img/glyphicons-halflings.png");
+  background-image: url("/packages/jasny.bootstrap/img/glyphicons-halflings.png");
 }
 
 .icon-white,
@@ -24,19 +24,19 @@
 .dropdown-menu > .active > a > [class*=" icon-"],
 .dropdown-submenu:hover > a > [class^="icon-"],
 .dropdown-submenu:hover > a > [class*=" icon-"] {
-  background-image: url("/packages/bootstrap-jasny/img/glyphicons-halflings-white.png");
+  background-image: url("/packages/jasny.bootstrap/img/glyphicons-halflings-white.png");
 }
 
 @font-face {
   font-family: IconicStroke;
   font-weight: normal;
-  src: url('/packages/bootstrap-jasny/fonts/iconic_stroke.eot');
-  src: local('IconicStroke'), url('iconic_stroke.eot?#iefix') format('/packages/bootstrap-jasny/fonts/embedded-opentype'), url('/packages/bootstrap-jasny/fonts/iconic_stroke.woff') format('woff'), url('/packages/bootstrap-jasny/fonts/iconic_stroke.ttf') format('truetype'), url('iconic_stroke.svg#iconic') format('svg'), url('../fonts/iconic_stroke.otf') format('opentype');
+  src: url('/packages/jasny.bootstrap/fonts/iconic_stroke.eot');
+  src: local('IconicStroke'), url('iconic_stroke.eot?#iefix') format('/packages/jasny.bootstrap/fonts/embedded-opentype'), url('/packages/jasny.bootstrap/fonts/iconic_stroke.woff') format('woff'), url('/packages/jasny.bootstrap/fonts/iconic_stroke.ttf') format('truetype'), url('iconic_stroke.svg#iconic') format('svg'), url('../fonts/iconic_stroke.otf') format('opentype');
 }
 
 @font-face {
   font-family: IconicFill;
     font-weight: normal;
-  src: url('/packages/bootstrap-jasny/fonts/iconic_fill.eot');
-    src: local('IconicFill'), url('/packages/bootstrap-jasny/fonts/iconic_fill.eot?#iefix') format('embedded-opentype'), url('/packages/bootstrap-jasny/fonts/iconic_fill.woff') format('woff'), url('/packages/bootstrap-jasny/fonts/iconic_fill.ttf') format('truetype'), url('iconic_fill.svg#iconic') format('svg'), url('/packages/bootstrap-jasny/fonts/iconic_fill.otf') format('opentype');
+  src: url('/packages/jasny.bootstrap/fonts/iconic_fill.eot');
+    src: local('IconicFill'), url('/packages/jasny.bootstrap/fonts/iconic_fill.eot?#iefix') format('embedded-opentype'), url('/packages/jasny.bootstrap/fonts/iconic_fill.woff') format('woff'), url('/packages/jasny.bootstrap/fonts/iconic_fill.ttf') format('truetype'), url('iconic_fill.svg#iconic') format('svg'), url('/packages/jasny.bootstrap/fonts/iconic_fill.otf') format('opentype');
 }
