@@ -1,3 +1,5 @@
+var path = require('path');
+
 Package.describe({
 	summary: "Latest version of Bootstrap by Jasny ()"
 });
@@ -9,6 +11,12 @@ Package.on_use(function (api){
 	api.add_files('lib/bootstrap/js/bootstrap.js', 'client');
 	api.add_files('lib/bootstrap/img/glyphicons-halflings.png', 'client');
 	api.add_files('lib/bootstrap/img/glyphicons-halflings-white.png', 'client');
+
+	// iconic fonts
+	api.add_files('lib/bootstrap/font/iconic_fill.woff', 'client');
+	api.add_files('lib/bootstrap/font/iconic_fill.ttf', 'client');
+	api.add_files('lib/bootstrap/font/iconic_fill.svg', 'client');
+	api.add_files('lib/bootstrap/font/iconic_fill.otf', 'client');
 
 	// XXX this makes the paths to the icon sets absolute. it needs
 	// to be included _after_ the standard bootstrap css so
