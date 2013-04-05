@@ -1,5 +1,3 @@
-var path = require('path');
-
 Package.describe({
 	summary: "Latest version of Bootstrap by Jasny (2.3.1-j6). Also includes the iconic fonts."
 });

@@ -3,6 +3,6 @@
 	"description": "Bootstrap, extended by Jasny, packaged for Meteor",
 	"homepage": "https://github.com/dbubs/meteor-jasny.bootstrap",
 	"author": "David Knell",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"git": "https://github.com/dbubs/meteor-jasny.bootstrap.git"
 }
